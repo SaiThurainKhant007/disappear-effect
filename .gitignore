@@ -1,0 +1,13 @@
+# Models are downloaded on first run (lama_fp32.onnx is 198 MB, over GitHub's file limit)
+models/
+
+# Run output
+*.log
+STOP_RECORDING
+camera_*.jpg
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/

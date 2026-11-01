@@ -1,0 +1,6 @@
+mediapipe>=1.2,<2
+opencv-contrib-python
+numpy
+pyvirtualcam
+onnxruntime
+mss
